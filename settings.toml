@@ -1,0 +1,9 @@
+[default]
+SQLALCHEMY_TRACK_MODIFICATIONS = 0
+FLASK_ENV="development"
+ENV="development"
+
+[testing]
+FLASK_ENV="testing"
+TESTING=true
+DEBUG=true
