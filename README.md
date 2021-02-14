@@ -1,14 +1,17 @@
 # Garden Learning
 
 This is a LMS(Learning Menagement System) inspired by the Canvas Project. The proposal of this project is to use modern tools and concepts of:
-* clean code
-* archtecture
-* 
-
+* [Clean Code](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+* [Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-c%C3%B3digo-melhor-com-object-calisthenics-d5364767a9ba)
+* [Clean archtecture](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20(2018)[7615523].PDF)
+* RESTfull APIs
+* Progressive Web App
+* Single Page aplication
+* Real time communication
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+WIP
 
 ### Prerequisites
 
@@ -68,7 +71,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -76,9 +79,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Luan Roger** - *Initial work* - [LuanComputacao](https://github.com/LuanComputacao)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+See also the list of [contributors](https://github.com/Garden-Projects/garden_learning/graphs/contributors) who participated in this project.
 
 ## License
 
